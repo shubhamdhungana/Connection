@@ -14,7 +14,7 @@ else if (loveScore>50 && loveScore <=70) {
 
 }
 else if (loveScore>30 && loveScore <=50) {
-  alert("You Love Score " + loveScore + "%. " + yourName+",Halka Timro connection kam bho, feri try gara la. LOL" + loverName + " sanga" );
+  alert("You Love Score " + loveScore + "%. " + yourName+",Halka Timro connection kam bho, feri try gara la. LOL " + loverName + " sanga" );
 
 }
 else if (loveScore>10 && loveScore <=30) {
